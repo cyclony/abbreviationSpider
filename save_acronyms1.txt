@@ -1,0 +1,29 @@
+CEV,Connersville印地安那州,"Connersville, Indiana"
+CEV,控制环境的避难所,Controlled Environment Vault
+CEV,战斗工程师的车辆,Combat Engineer Vehicle
+CEV,闭眼睛视觉,Closed Eye Visuals
+CEV,作战效能的价值,Combat Effectiveness Value
+CEV,目前估计价值,Current Estimated Value
+CEV,电晕灭绝的电压,Corona Extinction Voltage
+CEV,常见的元素的验证,Common Element Verification
+CEV,碳当量的价值,Carbon Equivalent Value
+CEV,Colio房地产葡萄园,Colio Estate Vineyards
+CEV,(NASA宇航员探险飞行器),Crew Exploration Vehicle (NASA)
+CEV,连贯意志。推算,Coherent Extrapolated Volition
+CEV,弹性常数的波动,Constant Elasticity of Volatility
+CEV,眼镜蛇蚀观众,CoBrA Eclipse Viewer
+CEV,环境管理体系(美国空军),Environmental Management (USAF)
+CEV,当代英语版本(圣经),Contemporary English Version (Bible)
+CF,寻线机,Call Finder
+CF,碳纤维,carbon fibre
+CF,运费免付,Carriage Free
+CF,趋化因子,chemotactic factor
+CF,彩色滤波器,Color Filter
+CF,控制装置,Controlled Facility
+CF,转换设施,Conversion Facility
+CF,核心功能,Core Function
+CF,电流反馈,Current Feedback
+CF,囊性纤维变性,cystic fibrosis
+CF,四氢叶酸,Folinic acid
+CF,佛得角,Cape Verde
+CF,无载波的，无载体的,Carrier-Free

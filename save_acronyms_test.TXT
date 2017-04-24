@@ -1,0 +1,126 @@
+ADS;抗利尿物质;Antidiuretic Substance
+ADS;缩位拨号业务;Abbreviated Dialing Service
+ADS;附属设备驱动系统;Accessory Drive System
+ADS;准确定义系统;Accurately Defined System
+ADS;主动式目录服务;Active Directory Service
+ADS;有源双星;Active Double Star
+ADS;活动数据工作单，待处理数据工作单;Activity Data Sheet
+ADS;地址显示分系统;Address Display Subsystem
+ADS;先进程序调试系统;Advanced Debugging System
+ADS;高级显示系统;Advanced Display System
+ADS;美国存托股份;American Depository Share
+ADS;弹药分配系统;Ammunition Delivery System
+ADS;模拟显示服务接口;Analog Display Service interface
+ADS;应用开发系统;Application Development System
+ADS;异步数据业务;Asynchronous Data Service
+ADS;音频分配系统;Audio Distribution System
+ADS;澳洲糖尿病协会;Australian Diabetes Society
+ADS;自动数据装置;Automatic Data Set
+ADS;自动数据交换;Automatic Data Switching
+ADS;自动相关监视;Automatic Dependent Surveillance
+ADS;自动数字交换机;Automatic Digital Switch
+ADS;自动复制系统[美];Automatic Duplicating System
+ADS;活动目录服务;Active Directory Services
+ADS;自动相关监视;Automatic Dependent Surveillance
+ADS;应用开发系统;Application Development System
+ADS;高级显示系统;Advanced Display System
+ADS;附属设备驱动系统;Accessory Drive System
+ADS;音频分配系统;Audio Distribution System
+ADS;美国存托股份;American Depository Share
+ADS;自动数据装置;Automatic Data Set
+ADS;阿拉斯加牙科协会;Alaska Dental Society
+ADS;先进程序调试系统;Advanced Debugging System
+ADS;缩位拨号业务;Abbreviated Dialing Service
+ADS;有源双星;Active Double Star
+ADS;潜水衣;Atmospheric Diving Suit
+ADS;地址显示分系统;Address Display Subsystem
+ADS;澳洲糖尿病协会;Australian Diabetes Society
+ADS;自动数字交换机;Automatic Digital Switch
+ADS;异步数据业务;Asynchronous Data Service
+ADS;准确定义系统;Accurately Defined System
+ADS;模拟显示服务接口;Analog Display Service interface
+ADS;主动式目录服务;Active Directory Service
+ADS;弹药分配系统;Ammunition Delivery System
+ADS;自动复制系统[美];Automatic Duplicating System
+ADS;存档和分配环节;Archive and Distribution Segment
+ADS;美国方言学会;American Dialect Society
+ADS;对齐的文件系统;Aligned Documentation System
+ADS;经纪人/经销商服务;Agent/Distributor Service
+ADS;艾达开发体系;Ada Development System
+ADS;自动化文件的软件;Automated Documentation Software
+ADS;确定系统的态度;Attitude Determination System
+ADS;大西洋数据服务;Atlantic Data Services
+ADS;认证文件集;Accreditation Documentation Set
+ADS;声波检测传感器;Acoustic Detection Sensor
+ADS;先进的数据系统;Advanced Data Systems
+ADS;自动数字开关;Automated Digital Switch
+ADS;Alent设计方案;Alent Design Solutions
+ADS;先进的数字开关;Advanced Digital Switch
+ADS;加速器驱动系统;Accelerator Driven System
+ADS;自动化数据系统;Automated Data System
+ADS;自诊断系统;Adaptive Diagnostics System
+ADS;美国的水仙花的社会;American Daffodil Society
+ADS;先进的分布式仿真;Advanced Distributed Simulation
+ADS;注意缺陷综合症;Attention Deficit Syndrome
+ADS;高空减压症;Altitude Decompression Sickness
+ADS;大气数据传感器;Air Data Sensor
+ADS;地址数据选通;Address Data Strobe
+ADS;多选择救治体系, 多选择给药法;Alternative Delivery System
+ADS;大气数据系统;Air Data System
+ADS;角位移传感器;Angular Displacement Sensor
+ADS;自动发送系统, 自动分配系统;Automatic Distribution System
+ADS;模拟的分销系统;Analog Distribution System
+ADS;Deconfliction领空;Airspace Deconfliction System
+ADS;成年人每天服务;Adult Day Services
+ADS;自动数据的选择;Automatic Data Selection
+ADS;警报系统的冲刺;Alert Distribution System (Sprint)
+ADS;建筑设计的会话;Architectural Design Session
+ADS;自动二系统;Automatic Debiting System
+ADS;应用程序开发的解决方案;Application Development Solution
+ADS;Antex数据系统;Antex Data Systems
+ADS;签名文件签字;Autograph Document Signed
+ADS;防空部门;Air Defense Sector
+ADS;预先处理的服务费;Advance Disposal Surcharge
+ADS;采集数据系统;Acquisition Data System
+ADS;先进的消磁系统;Advanced Degaussing System
+ADS;分析仪检测;Analyzer Detecting Set
+ADS;应用数据表;Application Data Sheet
+ADS;先进的展开系统;Advanced Deployable System
+ADS;应用程序开发的标准;Application Development Standards
+ADS;动态数据系统;Ambulatory Data System
+ADSA;美国乳品科学协会;American Dairy Science Association
+ADSA;美国牙科麻醉学会;American Dental Society of Anesthesiology
+ADSA;美国梦储蓄账户;American Dream Savings Accounts
+ADSA;澳大利亚一天外科协会;Australasian Day Surgery Association
+ADSA;结构的文章。演示交替;alternate demonstration structural article
+ADSA;在南非的营养协会;Association for Dietetics in South Africa
+ADSA;艾滋病日服务协会;AIDS Day Services Association
+ADSA;自动门供应商协会;Automatic Door Suppliers Association
+ADSA;阿布扎比船务代理;Abu Dhabi Shipping Agency
+ADSA;阿尔伯达省聋的运动协会;Alberta Deaf Sports Association
+ADSA;先进的数据库系统和应用程序;Advanced Database Systems and Applications
+ADSA;常染色体显性遗传感官共济失调;Autosomal Dominant Sensory Ataxia
+ADSA;科罗拉多的数据来源的建筑;Aspen Data Source Architecture
+ADSA;协助狗的政府特殊津贴;Assistance Dog Special Allowance
+ADSA;美国体育舞蹈联合会有限公司;American Dancesport Association Inc.
+ADSA;澳大利亚唐氏症协会;Australian Down Syndrome Association
+ADSA;美国的焦虑症的社会;Anxiety Disorder Society of America
+ADSA;衰老和伤残险业务管理;Aging and Disability Services Administration
+ADSA;阿尔伯达省瓣运动协会(加拿大);Alberta Disc Sports Association (Canada)
+ADSA;先进的分布式仿真分析(车间);Advanced Distributed Simulations for Analysis (workshop)
+ADSC;地址的地位发生了变化;Address Status Changed
+ADSC;防空软件委员会;Air Defense Software Committee
+ADSC;采集数据系统控制器;Acquisition Data Systems Controller
+ADSC;活动目录格式(微软);Active Directory Schema Classes (Microsoft)
+ADSC;应用程序开发服务中心;Application Development Service Center
+ADSC;土房文件构建公约;Adobe Document Structuring Conventions
+ADSC;自动数据业务中心;Automatic Data Service Center
+ADSC;自动数字交换机的中心;Automatic Digital Switch Center
+ADSC;自动依赖监视-合同;Automatic Dependent Surveillance - Contract
+ADSC;娱乐设备的安全理事会(英国);Amusement Device Safety Council (UK)
+ADSC;现役服务的承诺;Active Duty Service Commitment
+ADSC;大西洋数据服务有限公司;Atlantic Data Services, Inc.
+ADSC;Aerodigestive和睡眠中心(辛辛那提儿童医院医学中心);Aerodigestive and Sleep Center (Cincinnati Children\'s Hospital Medical Center)
+ADSC;安德鲁·安全顾问有限公司(爱尔兰);Andrew Doyle Safety Consultants Ltd (Ireland)
+ADSC;应用直接服务公司(多伦多,在加拿大);Applied Direct Services Corporation (Toronto, ON, Canada)
+ADSC;陆军发展和选择中心(英国国防部);Army Development and Selection Centre (UK MoD)
