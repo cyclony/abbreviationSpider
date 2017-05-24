@@ -27,3 +27,134 @@ CF,囊性纤维变性,cystic fibrosis
 CF,四氢叶酸,Folinic acid
 CF,佛得角,Cape Verde
 CF,无载波的，无载体的,Carrier-Free
+CEV,Connersville印地安那州,"Connersville, Indiana"
+CEV,控制环境的避难所,Controlled Environment Vault
+CEV,战斗工程师的车辆,Combat Engineer Vehicle
+CEV,闭眼睛视觉,Closed Eye Visuals
+CEV,作战效能的价值,Combat Effectiveness Value
+CEV,目前估计价值,Current Estimated Value
+CEV,电晕灭绝的电压,Corona Extinction Voltage
+CEV,常见的元素的验证,Common Element Verification
+CEV,碳当量的价值,Carbon Equivalent Value
+CEV,Colio房地产葡萄园,Colio Estate Vineyards
+CEV,(NASA宇航员探险飞行器),Crew Exploration Vehicle (NASA)
+CEV,连贯意志。推算,Coherent Extrapolated Volition
+CEV,弹性常数的波动,Constant Elasticity of Volatility
+CEV,眼镜蛇蚀观众,CoBrA Eclipse Viewer
+CEV,环境管理体系(美国空军),Environmental Management (USAF)
+CEV,当代英语版本(圣经),Contemporary English Version (Bible)
+CEV,Connersville印地安那州,"Connersville, Indiana"
+CEV,控制环境的避难所,Controlled Environment Vault
+CEV,战斗工程师的车辆,Combat Engineer Vehicle
+CEV,闭眼睛视觉,Closed Eye Visuals
+CEV,作战效能的价值,Combat Effectiveness Value
+CEV,目前估计价值,Current Estimated Value
+CEV,电晕灭绝的电压,Corona Extinction Voltage
+CEV,常见的元素的验证,Common Element Verification
+CEV,碳当量的价值,Carbon Equivalent Value
+CEV,Colio房地产葡萄园,Colio Estate Vineyards
+CEV,(NASA宇航员探险飞行器),Crew Exploration Vehicle (NASA)
+CEV,连贯意志。推算,Coherent Extrapolated Volition
+CEV,弹性常数的波动,Constant Elasticity of Volatility
+CEV,眼镜蛇蚀观众,CoBrA Eclipse Viewer
+CEV,环境管理体系(美国空军),Environmental Management (USAF)
+CEV,当代英语版本(圣经),Contemporary English Version (Bible)
+CEV,Connersville印地安那州,"Connersville, Indiana"
+CEV,控制环境的避难所,Controlled Environment Vault
+CEV,战斗工程师的车辆,Combat Engineer Vehicle
+CEV,闭眼睛视觉,Closed Eye Visuals
+CEV,作战效能的价值,Combat Effectiveness Value
+CEV,目前估计价值,Current Estimated Value
+CEV,电晕灭绝的电压,Corona Extinction Voltage
+CEV,常见的元素的验证,Common Element Verification
+CEV,碳当量的价值,Carbon Equivalent Value
+CEV,Colio房地产葡萄园,Colio Estate Vineyards
+CEV,(NASA宇航员探险飞行器),Crew Exploration Vehicle (NASA)
+CEV,连贯意志。推算,Coherent Extrapolated Volition
+CEV,弹性常数的波动,Constant Elasticity of Volatility
+CEV,眼镜蛇蚀观众,CoBrA Eclipse Viewer
+CEV,环境管理体系(美国空军),Environmental Management (USAF)
+CEV,当代英语版本(圣经),Contemporary English Version (Bible)
+CF,寻线机,Call Finder
+CF,碳纤维,carbon fibre
+CF,运费免付,Carriage Free
+CF,趋化因子,chemotactic factor
+CF,彩色滤波器,Color Filter
+CF,控制装置,Controlled Facility
+CF,转换设施,Conversion Facility
+CF,核心功能,Core Function
+CF,电流反馈,Current Feedback
+CF,囊性纤维变性,cystic fibrosis
+CF,四氢叶酸,Folinic acid
+CF,佛得角,Cape Verde
+CF,无载波的，无载体的,Carrier-Free
+CF,中心频率,center frequency
+CF,向心力,Center of Force
+CF,中非共和国,Central African Republic
+CF,最终确认,Certified Final
+CF,财务主任([美]陆军),Chief of Finance
+CEV,Connersville印地安那州,"Connersville, Indiana"
+CEV,控制环境的避难所,Controlled Environment Vault
+CEV,战斗工程师的车辆,Combat Engineer Vehicle
+CEV,闭眼睛视觉,Closed Eye Visuals
+CEV,作战效能的价值,Combat Effectiveness Value
+CEV,目前估计价值,Current Estimated Value
+CEV,电晕灭绝的电压,Corona Extinction Voltage
+CEV,常见的元素的验证,Common Element Verification
+CEV,碳当量的价值,Carbon Equivalent Value
+CEV,Colio房地产葡萄园,Colio Estate Vineyards
+CEV,(NASA宇航员探险飞行器),Crew Exploration Vehicle (NASA)
+CEV,连贯意志。推算,Coherent Extrapolated Volition
+CEV,弹性常数的波动,Constant Elasticity of Volatility
+CEV,眼镜蛇蚀观众,CoBrA Eclipse Viewer
+CEV,环境管理体系(美国空军),Environmental Management (USAF)
+CEV,当代英语版本(圣经),Contemporary English Version (Bible)
+CF,寻线机,Call Finder
+CF,碳纤维,carbon fibre
+CF,运费免付,Carriage Free
+CF,趋化因子,chemotactic factor
+CF,彩色滤波器,Color Filter
+CF,控制装置,Controlled Facility
+CF,转换设施,Conversion Facility
+CF,核心功能,Core Function
+CF,电流反馈,Current Feedback
+CF,囊性纤维变性,cystic fibrosis
+CF,四氢叶酸,Folinic acid
+CF,佛得角,Cape Verde
+CF,无载波的，无载体的,Carrier-Free
+CF,中心频率,center frequency
+CF,向心力,Center of Force
+CF,中非共和国,Central African Republic
+CF,最终确认,Certified Final
+CF,财务主任([美]陆军),Chief of Finance
+CF,导路器，线路选择器,Circuit Finder
+CF,紧凑型闪存卡,CompactFlash Card
+CF,补体结合，补体固定,complement fixation
+CF,转换系数，再生系数,Conversion Factor
+CF,甲酚-甲醛树脂,Cresol-formaldehyde
+CF,切削(润滑冷却)液,Cutting Fluid
+CF,回车，回行，复原，刀架复位,Carriage Return
+CF,中锋,Center Forward
+CF,"离岸加运费价格,【法】 成本加运费价, 货价及运费",Cost and Freight
+CF,概念框架,Conceptual Framework
+CF,信用档案,Credit File
+CF,交火系统,Cross Fire
+CF,粗纤维,crude fiber
+CF,交叉火力,CrossFire
+CFA,共形天线阵,Conformal Array
+CFA,容量和流量分配,Capacity and Flow Assignment
+CFA,注册金融分析师,Chartered Financial Analyst
+CFA,彩色滤镜阵列,Color Filter Array
+CFA,儿童基金会阿富汗,Children Fund Afghanistan
+CFA,猫的爱好者协会,Cat Fanciers' Association
+CFA,中央财政机关(科),Central Fiscal Authority (Kosovo)
+CFA,弗氏完全佐剂,Complete Freund's Adjuvant
+CFA,隐原性纤维化肺泡炎,Cryptogenic Fibrosing Alveolitis
+CFA,美术学院,College of Fine Arts
+CFA,验证性因素分析,Confirmatory Factor Analysis
+CFA,商业融资,Commercial Financing Advance
+CFA,美国儿童,Children First America
+CFA,连续流动分析,Continuous Flow Analysis
+CFA,中国足协,Chinese Football Association
+CFA,控制流分析,Control Flow Analysis
+CFA,加州教师协会,California Faculty Association
