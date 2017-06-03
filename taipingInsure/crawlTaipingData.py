@@ -5,9 +5,9 @@ import functools
 from concurrent import futures
 from itertools import islice
 
-Price_Item = functools.namedtuple('Price_Item','product_name date product_type buy_price sell_price')
-product_url_prex = 'http://life.cntaiping.com/pricehistory.jspx?a=1&productid={}&pageno={}'
-
+# 定义命名元组
+Price_Item = functools.namedtuple('Price_Item', 'product_name date product_type buy_price sell_price')
+product_url_fmt = 'http://life.cntaiping.com/pricehistory.jspx?a=1&productid={}&pageno={}'
 
 
 def get_data(url):
@@ -16,6 +16,7 @@ def get_data(url):
     soup = BeautifulSoup(res.text)
     return [[item.text.strip() for item in tag('td')] for tag in soup.select('tr')]
 
+
 @functools.lru_cache()
 def get_soup(url):
     res = requests.get(url)
@@ -23,14 +24,17 @@ def get_soup(url):
     soup = BeautifulSoup(res.text)
     return soup
 
-#获取所有的产品id
+
+# 获取所有的产品id
 productid_list_url = 'http://life.cntaiping.com/pricenotice.jspx'
+
+
 def get_pid_list(url):
     soup = get_soup(url)
     return [(tag['value'], tag.text) for tag in soup.select('select option')]  # return 产品id 和产品名称
 
 
-class Price_Crawler:
+class PriceSpider:
     page_no = 1
     prd_id = 0
     prod_name = ''
@@ -40,30 +44,29 @@ class Price_Crawler:
     def __init__(self, prod_id, prod_name):
         self.prod_name = prod_name
         self.prd_id = prod_id
-        self.prod_url = product_url_prex.format(self.prd_id, self.page_no)
+        self.prod_url = product_url_fmt.format(self.prd_id, self.page_no)
 
     def next_page_url(self, url):
         soup = get_soup(url)
         if '下一页' in (tag.string for tag in soup.select('li')):
             self.page_no += 1
-            return product_url_prex.format(self.prd_id, self.page_no)
-        else: return None
+            return product_url_fmt.format(self.prd_id, self.page_no)
 
-    #获取指定产品id对应的历史数据
-    def get_prd_his_price_data(self, product_url):
+    # 获取指定产品id对应的历史数据
+    def get_prd_his_price(self, product_url):
         if product_url:
             soup = get_soup(product_url)
-            for price_item_tag in islice(soup.select('tr'), 1, 21): #  利用切片函数（islice，将第一条和最后一条过滤掉)
-                date, prd_type, buy_price, sell_price, _ = (tag.text.strip() for tag in price_item_tag.find_all('td'))#  利用unpack将list对应元素赋值
+            for price_item_tag in islice(soup.select('tr'), 1, 21):  # 利用切片函数islice，将第一条和最后一条过滤掉)
+                date, prd_type, buy_price, sell_price, _ = (tag.text.strip() for tag in price_item_tag.find_all('td'))  # 利用unpack将list对应元素赋值
                 yield date, prd_type, buy_price, sell_price
-            yield from self.get_prd_his_price_data(self.next_page_url(product_url))
+            yield from self.get_prd_his_price(self.next_page_url(product_url))
 
+    # 抓取该产品的所有历史价格数据
     def download_prices(self):
-        for date, prd_type, buy_price, sell_price in self.get_prd_his_price_data(self.prod_url):
+        for date, prd_type, buy_price, sell_price in self.get_prd_his_price(self.prod_url):
             item = Price_Item(self.prod_name, date, prd_type, buy_price, sell_price)
             self.downloaded_data.append(item)
         self.save_to_file()
-
 
     def save_to_file(self):
         file_name = self.prod_name+'.csv'
@@ -73,7 +76,7 @@ class Price_Crawler:
 
 
 def crawl_price_data(tuple):
-    crawler = Price_Crawler(*tuple)
+    crawler = PriceSpider(*tuple)
     crawler.download_prices()
 
 
