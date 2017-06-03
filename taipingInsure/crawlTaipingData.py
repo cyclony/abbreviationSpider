@@ -61,7 +61,6 @@ class Price_Crawler:
     def download_prices(self):
         for date, prd_type, buy_price, sell_price in self.get_prd_his_price_data(self.prod_url):
             item = Price_Item(self.prod_name, date, prd_type, buy_price, sell_price)
-            print(item)
             self.downloaded_data.append(item)
         self.save_to_file()
 
